@@ -1,6 +1,9 @@
 # VRSD: Rethinking Similarity and Diversity for Retrieval in Large Language Models
 
 # -----------------------------------------------------
+
+**We give a rigorous time complexity analysis of the algorithm in the paper. The entire experimental process can be carried out on an ordinary computer**
+
 # Usage
 **pip install -r requirements.txt**
 
