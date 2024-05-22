@@ -1,6 +1,6 @@
 # VRSD: Rethinking Similarity and Diversity for Retrieval in Large Language Models
 
-# ----------------------------------------------------------------------
+# -----------------------------------------------------
 # Usage
 **pip install -r requirements.txt**
 
