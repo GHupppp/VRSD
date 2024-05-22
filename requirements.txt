@@ -7,3 +7,5 @@ tqdm
 mistralai
 matplotlib
 rouge
+faiss-cpu
+faiss-gpu
